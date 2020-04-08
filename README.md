@@ -39,7 +39,7 @@ https://visualgo.net/en
 
 ### Book
 1) Cracking the Coding Interview
-2） 剑指offer
+2) 剑指offer
 3) 程序员代码面试指南-IT名企算法与数据结构题目最优解
 
 ### Platform
