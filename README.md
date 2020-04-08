@@ -39,4 +39,13 @@ https://visualgo.net/en
 
 ### Book
 1) Cracking the Coding Interview
-2) 程序员代码面试指南-IT名企算法与数据结构题目最优解
+2） 剑指offer
+3) 程序员代码面试指南-IT名企算法与数据结构题目最优解
+
+### Platform
+1) Leetcode: (for algorithms)
+https://leetcode.com/
+2) Hackerrank: (get familiar with data structure and language characteristics)
+https://www.hackerrank.com/dashboard
+3) Codewars:(for algorithms)
+https://www.codewars.com/dashboard
