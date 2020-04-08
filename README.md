@@ -27,12 +27,11 @@ Python, Java
 ## 4 Visual aid for DS and Algo
 
 ### Website:
-1) https://visualgo.net/en
+https://visualgo.net/en
 
 ### App: 
 算法动画图解
 
 ### Book:
-1) 图解算法
-2）大话数据结构
+算法图解 (Aditya Bhargava)
 
