@@ -11,7 +11,8 @@ Python, Java
 ## 2 DS in Java
 (suitable for most platform)
 
-### coursera: Algorithms by Princeton U
+### Coursera
+1) Algorithms by Princeton U
 - Part I: https://www.coursera.org/learn/algorithms-part1/home/welcome
 - Part II: https://www.coursera.org/learn/algorithms-part2
 - Book: Algorithms (Robert Segewick, Kevin Wayne)
