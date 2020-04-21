@@ -23,6 +23,10 @@ Python, Java
 ### Book
 1) C++ Primier 
 2) Data Structure and Algorithm Analysis in C++  (Mark Allen Weiss)
+### Course
+1) DS & A by THU, Junhui DENG
+https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/
+https://www.coursera.org/learn/data-structures-algorithms-1/
 
 ## 4 Visual aid for DS and Algo
 
